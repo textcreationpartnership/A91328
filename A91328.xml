@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A psalm of thanksgiving, to be sung by the children of Christs-Hospital, on Monday, Tuesday, and Wednesday in Easter holy-days (according to ancient custom) at St. Mary Spittle, for their founders and benefactors, 1679.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91328</idno>
+            <idno type="STC">Wing P4140A</idno>
+            <idno type="STC">ESTC R182241</idno>
+            <idno type="EEBO-CITATION">45534408</idno>
+            <idno type="OCLC">ocm 45534408</idno>
+            <idno type="VID">171826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A psalm of thanksgiving, to be sung by the children of Christs-Hospital, on Monday, Tuesday, and Wednesday in Easter holy-days (according to ancient custom) at St. Mary Spittle, for their founders and benefactors, 1679.</title>
+               </titleStmt>
+               <extent>1 sheet [1] p. : ill., music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Anne Godbid and John Playford,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In score.</note>
+                  <note>Reproduction of original in: Dulwich College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christ's Hospital (London, England)</term>
+               <term>Child welfare --  England --  London --  Early works to 1800.</term>
+               <term>Children --  Institutional care --  England --  London --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Psalm">
+            <pb facs="tcp:171826:1"/>
+            <head>A PSALM of Thankſgiving, to be Sung by the Children of Chriſt-Hoſpital, on Monday, Tueſday, and
+Wedneſday in Eaſter Holy-days, (according to ancient cuſtom) at St. Mary Spittle, for their Founders and Benefactors, 1679.</head>
+            <l>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+LEt us rejoyce with chearful voice,<note place="margin">This <hi>Chorus</hi> is to be Sung by all the Children, and repeated after e<g ref="char:EOLhyphen"/>very <hi>Verſe.</hi>
+               </note> God's Goodneſs magnifie,</l>
+            <l>Who freely grants to all our wants moſt plentiful ſupply.<gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </l>
+            <div n="1" type="verse">
+               <head>VERSE I.</head>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>E,<note place="margin">Monday.</note> who were helpleſs; we, who in our ſoft &amp; tender years</l>
+               <l>Have known that woe, that hardſhip felt, w<hi rend="sup">ch</hi> the moſt ſtout man fears</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+Poor, in diſtreſs, bereft of Friends, with direful Hunger pin'd.</l>
+               <l>And worſe than all thoſe Miſeries, none to inform the Mind,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Chorus.</hi>
+               </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+(Thanks to a Providence Divine,) we know no more of grief,</l>
+               <l>Neither in Mind, nor Body ſtarv'd; in both we find relief. Let us, <hi>&amp;c.</hi>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </l>
+            </div>
+            <div n="2" type="verse">
+               <head>VERSE II.</head>
+               <l>Who ſo in deeds of Charity the needy doth regard,</l>
+               <l>Him firmly hath our God ingag'd to keep (O great reward!)</l>
+               <l>Him in all dangers will defend; ſo bleſs him, that the more</l>
+               <l>With lib'ral hand he doth diſperſe, the larger is his ſtore.</l>
+               <l>Is Sickneſs he will Cheriſh him, will eaſe him in his Pain,</l>
+               <l>Who did ſo oft relieve the Sick, and Indigent ſuſtain.</l>
+            </div>
+            <div n="3" type="verse">
+               <head>VERSE III.</head>
+               <l>O Thers to Help,<note place="margin">Tueſday.</note> to Cloath, and Feed, from Miſery to raiſe,</l>
+               <l>How truly great and noble 'tis? how worthy is the Praiſe?</l>
+               <l>Baſe pleaſure 'tis Mankind to hurt; it is the only joy</l>
+               <l>Of Tyrants, who abuſe their power, to ruin and deſtroy:</l>
+               <l>In <hi>Britiſh</hi> Iſles (thanks be to God) we gen'rous Princes find;</l>
+               <l>Who think that Royal Charity becomes a Kingly mind.</l>
+            </div>
+            <div n="4" type="verse">
+               <head>VERSE IV.</head>
+               <l>In Regions moſt remote from hence wee I ſpread our Founders Fame,</l>
+               <l>And places yet unknown ſhall hear Our Sov'raign <hi>Charles</hi>'s Name:</l>
+               <l>Not to a Cloyſter or a Cell his Bounty can be ty'd;</l>
+               <l>It will ſupport and comfort us throughout the World ſo wide.</l>
+               <l>Where e're we come, in Gratitude, wee'l make it ſtill appear,</l>
+               <l>Who 'twas that firſt did nouriſh us; and who doth Feed us there.</l>
+            </div>
+            <div n="5" type="verse">
+               <head>VERSE V.</head>
+               <l>THat ſome might guard us,<note place="margin">Wedneſd.</note> and in time of need aſſiſtance lend,</l>
+               <l>Who might us from Oppreſſion and Injury defend;</l>
+               <l>After wiſe Counſel, who moſt fit to manage ſo great Truſt,</l>
+               <l>We were committed unto Men, both Liberal and Juſt.</l>
+               <l>Such Government doth render ſoon our Happineſs intire:</l>
+               <l>When Wiſdom, Wealth, and Honeſty, in the ſame Men conſpire.</l>
+            </div>
+            <div n="6" type="verse">
+               <head>VERSE VI.</head>
+               <l>For Trade and for Magnificence, <hi>London</hi>'s Renown is known;</l>
+               <l>Yet Faithfulneſs and Charity are Virtues ſhe doth own:</l>
+               <l>They do deſcend ſo low as us; nor is it a ſmall ſhare,</l>
+               <l>Which we, amongſt the reſt, partake of this great Cities care.</l>
+               <l>God's Kindneſs unto us is great, we muſt him ever Praiſe;</l>
+               <l>Who Princes did excite for us, and Benefactor raiſe,</l>
+            </div>
+         </div>
+         <div type="report">
+            <head>A true REPORT of the great number of poor Children, and other poor People, Maintained in the ſeveral HOSPITALS,
+under the pious Care of the LORD MAYOR, Commonalty, and Citizens of the City of LONDON, the year laſt paſt.</head>
+            <list>
+               <item>CHildren put forth Apprentices,<note place="margin">Chriſt's Hoſpital.</note> and diſcharged out of <hi>Chriſt's-Hoſpital,</hi>
+the year laſt paſt, 83. 10 whereof being Inſtructed in
+the Arts of <hi>Arithmetick</hi> and <hi>Navigation,</hi> were placed forth
+Apprentices to Commanders of Ships out of the <hi>Mathematical-School,</hi>
+in the ſaid <hi>Hoſpital,</hi> Founded for the benefit of this
+Kingdom, by the Kings moſt Excellent Majeſty—83</item>
+               <item>Children buried the year laſt paſt—9</item>
+               <item>Children now remaining under the Care and Charge of the ſaid
+Hoſpital, which are kept in the Houſe, and divers places in <hi>London,</hi>
+and Suburbs thereof, and at Nurſe in the Country. Five Hundred
+Fourſcore and Seventeen—597</item>
+               <item>The Names of all which are Regiſtred in the Books kept in the ſaid Hoſpital, and
+are there to be ſeen from what Pariſhes they have been from time to time admitted.</item>
+               <item>They being ſo many in number, and the Charges of keeping them ſo great, (and
+having ſuſtained great Loſſes by the late lamentable and dreadful Fire,) it is hoped
+ſeveral good Chriſtians will freely contribute towards the maintenance of the ſaid
+Children: The certain Revenue of the ſaid Hoſpital being little more than the
+Moiety of the neceſſary Charges thereof.</item>
+               <item>THere have been Cured this year laſt paſt in the <hi>Hoſpital</hi> of St.<note place="margin">
+                     <hi>S.</hi> Bartho<g ref="char:EOLhyphen"/>lomew'<hi>s</hi> Hoſpital.</note> 
+                  <hi>Bar<g ref="char:EOLhyphen"/>tholomew,</hi>
+of Wounded, Sick, and Maimed Souldiers and Sea<g ref="char:EOLhyphen"/>men,
+and other diſeaſed Perſons, from ſeveral parts of the Dominions
+of the Kings Moſt Excellent Majeſty, and from Foreign Parts; many
+whereof have been Relieved with Monies, and other Neceſſaries at their
+departure, though (as it hath pleaſed God) the greateſt part of the
+Revenues of the ſaid <hi>Hoſpital</hi> was conſumed by the late dreadful Fire—1633</item>
+               <item>Buried this year after much charges on them—175</item>
+               <item>Perſons remaining under Cure in the ſaid Hoſpital—235</item>
+               <item>THere have been Cured,<note place="margin">
+                     <hi>S.</hi> Thomas Hoſpital.</note> preſented and Diſcharged this year laſt paſt, in
+the <hi>Hoſpital</hi> of St. <hi>Thomas</hi> in <hi>Southwark,</hi> of Wounded, Sick, and
+Maime I Sea-men and Souldiers, and other diſeaſed Perſons, from the places
+adjcent, and from ſeveral parts of His Majeſties Dominions, and from
+other Foreign Parts; many whereof have been relieved with Monies and
+other Neceſſaries at their departure, though (as it hath pleaſed God) not only
+a principal part of their Revenue was conſumed in the general and dread<g ref="char:EOLhyphen"/>ful
+Conflagration in this City, 1666. but the beſt of their remaining Reve<g ref="char:EOLhyphen"/>nue
+was wholly burnt down in the great and diſmal Fire in <hi>Southwark,</hi> which
+happened in <hi>May,</hi> 1676. wherein alſo the Site of this Hoſpital it ſelf was very
+much damnified, being on Fire in ſome parts, although through Gods won<g ref="char:EOLhyphen"/>derful
+Mercy, it was preſerved from total deſtruction by the ſaid Fire—1588</item>
+               <item>Buried this year laſt paſt after much Charge in the time of their Sickneſs—264</item>
+               <item>Remaining under Cure at the Charge of the ſaid Hoſpital—258</item>
+               <item>REceived this laſt year into the <hi>Hoſpital</hi> of <hi>Bridewel,</hi>
+                  <note place="margin">Bridewel Hoſpital.</note> Vagrants and
+other indigent and miſerable People, many whereof had both
+cloathing, and ſuch other relief as their neceſſities required, being in great
+diſtreſs, and ſent by Paſſes into their native Countries—919</item>
+               <item>Maintained in the ſaid Hoſpital, and brought up in divers Arts and
+Trades, at the only Charge of the ſaid Hoſpital. Apprentices, and others,
+notwithſtanding it pleaſed God, the Hoſpital, and all the Houſes within the
+Precinct thereof, (which was the greater part of its Revenue) were wholly
+conſumed by the late dreadful Fire; beſides the great Loſs ſuſtained in the
+remains of its Revenue by the terrible fire, which ſince happened in <hi>Wapping</hi>—113</item>
+               <item>THe Hoſpital of <hi>Bethlem</hi> is of great neceſſity for the keeping and curing
+Diſtracted Perſons,<note place="margin">Bethlem Hoſpital.</note> whoſe miſery of all others is the more deplorable,
+becauſe they do not apprehend the ſame, it diſabling the Mind as well as the Body.</item>
+               <item>Brought into the ſame Hoſpital the laſt year diſtracted Men and Women—46</item>
+               <item>Cured of their Lunacy, and diſcharged thence the ſaid year—39</item>
+               <item>Now remaining there under Cure, and provided with Phyſick, Dyet, and
+other Relief, at the Charge of the ſaid Hoſpital—88</item>
+               <item>The Charge whereof is great, and the Revenue of the ſaid Hoſpital ſo ſmall as
+not to amount to one half part of the yearly Expences thereof; And the Building
+of the Old Hoſpital of <hi>Bethlem,</hi> being Ruinous, and not capacious to receive and
+contain the great number of diſtracted Perſons; for the admiſſion of whom,
+daily applications are made to the Governours thereof.</item>
+               <item>Upon a Chriſtian and Charitable Conſideration of the Premiſes, the Lord
+Mayor, Aldermen, and Common Council of this City of <hi>London,</hi> did lately grant
+ſufficient ground whereon to erect a more large and commodious Houſe for the
+keeping and Curing the ſaid Lunaticks, and Diſtracted Perſons: In the Building
+and Finiſhing whereof, the Governours of the ſaid Hoſpital, have laid out and
+disburſed about Seventeen Thouſand Pounds, whereby not only the whole Stock of
+the ſaid Hoſpital is Expended, but the Governours thereof have been neceſſitated
+to take up ſeveral Thouſands of Pounds for the Fini<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing the ſame, for which they
+pay Intereſt: And therefore the ſaid Hoſpital is a very fit object of all good mens
+Charity, to do as God ſhall enable, them, towards the relief of the ſaid poor Luna<g ref="char:EOLhyphen"/>ticks,
+and payment of their great Debts; There having been, and daily are, by the
+Bleſſing of God, and the Charge of the ſaid Hoſpital, and the Care of thoſe that
+are intruſted therewith, divers reduced to their former Senſes.</item>
+            </list>
+            <p>
+               <figure>
+                  <figDesc>decorative border</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by ANNE GODBID and JOHN PLAYFORD, 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
